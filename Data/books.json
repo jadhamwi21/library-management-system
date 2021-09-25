@@ -1,0 +1,17 @@
+{
+	"1": {
+		"BookId": 1,
+		"BookAuthor": "The Alchemist",
+		"BookTitle": "Paulo Coelho"
+	},
+	"2": {
+		"BookId": 2,
+		"BookAuthor": "In Search of Lost Time",
+		"BookTitle": "Marcel Proust"
+	},
+	"3": {
+		"BookId": 3,
+		"BookAuthor": "Land Of Glory",
+		"BookTitle": "Jad Al-Hamwi"
+	}
+}
